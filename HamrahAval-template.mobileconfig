@@ -63,7 +63,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.cellular</string>
 			<key>PayloadUUID</key>
-			<string>F28CB8CF-8652-423D-A687-626F97E56BA1</string>
+			<string>b8d936db21f644fe9a97fab1c2d91c20</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
